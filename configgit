@@ -1,0 +1,3 @@
+cmdkey /delete git:https://github.com
+git config --global user.name "r3b3ca000"
+git config --global user.email rebeca.brito@estudante.ifms.edu.br
